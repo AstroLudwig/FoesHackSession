@@ -16,7 +16,6 @@ import pandas as pd
 
 from astropy.io import fits
 from astropy.wcs import WCS
-from astroquery.skyview import SkyView
 from astropy.coordinates import SkyCoord, Angle
 from photutils import aperture_photometry, SkyCircularAperture
 
